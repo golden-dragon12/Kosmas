@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Космос</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="space">
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77eca7b7fa.png" class="yran"/>
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77ed345214.png" class="neptyn"/>
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77edd76e13.png" class="raketa"/>
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77ed750723.png" class="upiter"/>
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77ee2c2610.png" class="lego"/>
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77ee695ff7.png" class="enelo"/>
+            <img src="https://learn.algoritmika.org/uploads/student/70327020/68f77ebe3ba4c.png" class="asterod"/>
+        </div>
+    </body>
+</html>
